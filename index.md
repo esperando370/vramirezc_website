@@ -28,6 +28,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Contact
 email: vramirezc [at] berkeley [dot] edu
-twitter: [documentation](https://docs.github.com/categories/github-pages-basics/)
+
+twitter: [@Valeria_RamCas](https://twitter.com/Valeria_RamCas)
 
 *Always willing to collaborate and start new projects. Do not doubt to contact me!*
