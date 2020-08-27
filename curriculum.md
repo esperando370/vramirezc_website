@@ -55,19 +55,19 @@ _+Authors contributed equally
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
 ### Science communication and other not peer-reviewed publications
-**Ramírez-Castañeda, V.**(2019). Ants war. Jot Down Kids.
+**Ramírez-Castañeda, V.**(2019). [Ants war.](JDK/JDK11 - Hormigas.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.**(2018). The Spider-Man flight. Jot Down Kids.
+**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](JDK/JDK10_Vuelo arácnido.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2018). Shiny, tiny and toxic! – Dart poison frog. Jot Down Kids.
+**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](JDK/JDK9_Rana amarilla.png) – Dart poison frog. Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.] (https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
+**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
 **Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
 
 **Ramírez-Castañeda, V.** (2015). Three steps to understand Darwin thoughts. Portal Virtual ANURA Ciencia
 
-**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Zoológico de Cali. (Peer-reviewed). 
+**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Cali, Colombia Zoo. (Peer-reviewed). 
 
 Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
 
