@@ -1,9 +1,7 @@
 ---
 layout: post
-title: curriculum
+title: Valeria Ramírez Castañeda curriculum
 ---
-
-# Valeria Ramírez Castañeda CV
 
 ## Education 
 ●	Graduate student in Integrative Biology. University of California, Berkeley, USA. August 2019 to currently active
@@ -33,7 +31,7 @@ title: curriculum
 
 PEER-REVIEWED ARTICLES
 
-●	Ramírez-Castañeda, V. (2020). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English language in science: The case of Colombian Ph.D. in biological sciences. BioRxiv. doi: https://doi.org/10.1101/2020.02.15.949982. Manuscript submitted for peered-review publication.
+●	Ramírez-Castañeda, V. (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. PLOS ONE
 
 ●	Márquez, R., Ramírez-Castañeda, V., & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in Phyllobates poison-dart frogs? Evolution, 73(2), 390-400.
 
@@ -62,8 +60,11 @@ PEER-REVIEWED ARTICLES
 ●	Best Undergraduate Thesis in Molecular Biology Award. National University of Colombia. Bogotá, Colombia. Spring semester 2014.
 
 ### Scholarships, fellowships and grants
+●	P.E.O. International Peace Scholarship. USA 2020. International Chapter of the P.E.O. Sisterhood. 12500 USD. 1 year.
 
-●	Evolution Meetings - Montpellier, France 2018. International Committee Travel Award. Society for the Study of Evolution. 500 USD. 4 days.
+● Grants-in-Aid of Research (GIAR). USA 2020. Berkeley Chapter of Sigma Xi. 500 USD. 6 months.
+
+● Evolution Meetings - Montpellier, France 2018. International Committee Travel Award. Society for the Study of Evolution. 500 USD. 4 days.
 
 ●	Seed Research Award for Master Students 2017. Department of Biological Sciences. University of the Andes, Bogota, Colombia. 1280 USD. 6 months.
 
