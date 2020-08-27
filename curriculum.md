@@ -43,7 +43,7 @@ PEER-REVIEWED ARTICLES
 
 ●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., Ramírez-Castañeda, V., & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. DOI: 10.11646/zootaxa.4290.3.7
 
-*Authors contributed equally 
++Authors contributed equally 
 
 ### Thesis
 ●	Ramírez-Castañeda, V. (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
