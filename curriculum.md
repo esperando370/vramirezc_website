@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hfhfhf
+title: curriculum
 ---
 
 # Valeria Ramírez Castañeda CV
