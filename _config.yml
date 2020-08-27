@@ -3,7 +3,4 @@ title: [Valeria Ramírez Castañeda]
 description: [Graduate Student at the Integrative Biology Department in UC Berkeley]
 logo: ./logo.jpg
 show_downloads: false
-readme_index:
-  enabled:          true
-  remove_originals: true
-  with_frontmatter: true
+
