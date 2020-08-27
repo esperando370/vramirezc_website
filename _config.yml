@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Valeria Ramírez Castañeda]
 description: [Website]
-logo: /blob/master/Bojonawi_foto.jpg
+logo: ./logo.jpg
