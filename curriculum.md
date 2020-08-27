@@ -31,17 +31,17 @@ title: Valeria Ramírez Castañeda curriculum
 
 PEER-REVIEWED ARTICLES
 
-●	Ramírez-Castañeda, V. (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. PLOS ONE
+●	Ramírez-Castañeda, V. (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. _PLOS ONE_. [doi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
 
-●	Márquez, R., Ramírez-Castañeda, V., & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in Phyllobates poison-dart frogs? Evolution, 73(2), 390-400.
+●	Márquez, R., Ramírez-Castañeda, V., & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in _Phyllobates_ poison-dart frogs? _Evolution, 73(2), 390-400.
 
-●	Beltrán, I.*, Ramírez-Castañeda, V.*, Rodríguez-López, C.*, Lasso, E., & Amézquita, A. (2019). Dealing with hot rocky environments: Critical thermal maxima and locomotor performance in Leptodactylus lithonaetes (Anura: Leptodactylidae). Herpetological Journal, 29(3).
+●	Beltrán, I.+, Ramírez-Castañeda, V.+, Rodríguez-López, C.+, Lasso, E., & Amézquita, A. (2019). Dealing with hot rocky environments: Critical thermal maxima and locomotor performance in _Leptodactylus lithonaetes_ (Anura: Leptodactylidae). _Herpetological Journal, 29(3).
 
-●	Gonzàlez-Duarte, R., De Castro-Miró, M., Tuson, M., Ramírez-Castañeda, V., Valero, R. & Marfany, G. (2018). Scaling new heights in the genetic diagnosis of inherited retinal dystrophies. Retinal Dystrophies Proceedings 2019 (In revision).
+●	Gonzàlez-Duarte, R., de Castro-Miró, M., Tuson, M., Ramírez-Castañeda, V., Gils, R. V., & Marfany, G. (2019). Scaling New Heights in the Genetic Diagnosis of Inherited Retinal Dystrophies. In _Retinal Degenerative Diseases_ (pp. 215-219). Springer, Cham.
 
-●	Flechas, S. V., Blasco-Zúñiga, A., Merino-Viteri, A., Ramírez-Castañeda, V., Rivera, M., & Amézquita, A. (2017). The effect of captivity on the skin microbial symbionts in three Atelopus species from the lowlands of Colombia and Ecuador. PeerJ, 5, e3594. PMID: 28785515
+●	Flechas, S. V., Blasco-Zúñiga, A., Merino-Viteri, A., Ramírez-Castañeda, V., Rivera, M., & Amézquita, A. (2017). The effect of captivity on the skin microbial symbionts in three _Atelopus_ species from the lowlands of Colombia and Ecuador. _PeerJ_, 5, e3594. PMID: 28785515
 
-●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., Ramírez-Castañeda, V., & Amézquita, A. (2017). A new species of Andinobates (Anura: Dendrobatidae) from the Urabá region of Colombia. Zootaxa, 4290(3), 531-546. DOI: 10.11646/zootaxa.4290.3.7
+●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., Ramírez-Castañeda, V., & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. DOI: 10.11646/zootaxa.4290.3.7
 
 *Authors contributed equally 
 
@@ -50,7 +50,7 @@ PEER-REVIEWED ARTICLES
 
 ●	Ramírez-Castañeda, V. (2017). Origin of mutations in the NaV gene family associated with resistance to neurotoxins in snake (_Erythrolamprus sp._) predators of dart poison frogs (Dendrobatidae). Master’s thesis. University of the Andes, Bogota, Colombia.
 
-●	Ramírez-Castañeda, V. (2014). Batrachotoxin (BTX) resistance in the snake (Erythrolamprus epinephelus) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
+●	Ramírez-Castañeda, V. (2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
 ### Honors & awards
 ●	New Talents in Sociolinguistics Award for Master’s thesis in Science Communication. Catalan Sociolinguistic Society. University of Barcelona. Barcelona, Spain. Spring semester 2019.
