@@ -12,6 +12,7 @@ title: Valeria Ramírez Castañeda curriculum
 
 ●	Bachelor in Biology. Biology (BSc.). National University of Colombia, Bogotá.  August 2008 to December 2013
 
+
 ## Laboral experience
 ●	University of California, Berkeley. Graduate student instructor. August 2019 to currently active
 
@@ -26,6 +27,7 @@ title: Valeria Ramírez Castañeda curriculum
 ●	University of the Andes, Bogota. Graduate student instructor. Aug 2014 to Nov 2015
 
 ●	Colombian Institute for the Evaluation of Education ICFES. Exam writer. Nov 2013 to currently active
+
 
 ## Publications
 
@@ -59,7 +61,7 @@ _+Authors contributed equally
 
 **Ramírez-Castañeda, V.** (2018). Shiny, tiny and toxic! – Dart poison frog. Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. Boletín Colombiano de Biología Evolutiva. https://issuu.com/boletincolevol/docs/boletincolevol_2019-1
+**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.] (https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
 **Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
 
@@ -67,21 +69,22 @@ _+Authors contributed equally
 
 **Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Zoológico de Cali. (Peer-reviewed). 
 
-Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). Continental Ecology on the Tayrona Natural Park. Universidad Nacional de Colombia. Available on: http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf
+Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
 
 Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
 
 _+Authors contributed equally 
 
 
-### Honors & awards
+## Honors & awards
 ●	New Talents in Sociolinguistics Award for Master’s thesis in Science Communication. Catalan Sociolinguistic Society. University of Barcelona. Barcelona, Spain. Spring semester 2019.
 
 ●	Academic Excellence Distinction. National University of Colombia. Bogotá, Colombia. Tuition exemption. 2008-2013
 
 ●	Best Undergraduate Thesis in Molecular Biology Award. National University of Colombia. Bogotá, Colombia. Spring semester 2014.
 
-### Scholarships, fellowships and grants
+
+## Scholarships, fellowships and grants
 ●	P.E.O. International Peace Scholarship. USA 2020. International Chapter of the P.E.O. Sisterhood. 12500 USD. 1 year.
 
 ● Grants-in-Aid of Research (GIAR). USA 2020. Berkeley Chapter of Sigma Xi. 500 USD. 6 months.
@@ -93,6 +96,7 @@ _+Authors contributed equally
 ●	Scholarship for Phylogenetic Tools for Comparative Biology: PCM workshop 2016. University of Massachusetts Boston. San Juan, Puerto Rico. Travel covered. 7 days.
 
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
+
 
 ## Social work experience
 ●	Graduate Students Representative, University of the Andes, Bogotá. 2016
