@@ -99,7 +99,7 @@ _+Authors contributed equally
 
 
 ## Social work experience
-●	Graduate Students Representative, University of the Andes, Bogotá. 2016
+●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
 ●	Blog on science-society relationship and advances in science made by Colombian scientist "Portal Virtual ANURA Ciencia". November 2014 to November 2015
 
