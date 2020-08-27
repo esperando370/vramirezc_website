@@ -57,9 +57,9 @@ _+Authors contributed equally
 ### Science communication and other not peer-reviewed publications
 **Ramírez-Castañeda, V.**(2019). [Ants war.](JDK/JDK11 - Hormigas.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](JDK/JDK10_Vuelo arácnido.png) Jot Down Kids.
+**Ramírez-Castañeda, V.**(2018). ![The Spider-Man flight.](JDK/JDK10_Vuelo arácnido.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](JDK/JDK9_Rana amarilla.png) – Dart poison frog. Jot Down Kids.
+**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
 
 **Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
