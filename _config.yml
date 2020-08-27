@@ -6,4 +6,4 @@ show_downloads: false
 readme_index:
   enabled:          true
   remove_originals: true
-  with_frontmatter: false
+  with_frontmatter: true
