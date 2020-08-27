@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Valeria Ramírez Castañeda curriculum
 ---
+
+# Curriculum
 
 ## Education 
 ●	Graduate student in Integrative Biology. University of California, Berkeley, USA. August 2019 to currently active
