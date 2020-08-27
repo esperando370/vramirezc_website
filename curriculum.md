@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title: hfhfhf
 ---
 
 # Valeria Ramírez Castañeda CV
