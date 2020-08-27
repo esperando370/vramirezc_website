@@ -55,9 +55,9 @@ _+Authors contributed equally
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
 ### Science communication and other not peer-reviewed publications
-**Ramírez-Castañeda, V.**(2019). [Ants war.](JDK/JDK11 - Hormigas.png) Jot Down Kids.
+**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.**(2018). ![The Spider-Man flight.](JDK/JDK10_Vuelo arácnido.png) Jot Down Kids.
+**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
 
 **Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
 
