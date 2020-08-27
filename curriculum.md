@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Curriculum
 ---
 
 VRC updated August 2020
@@ -36,17 +37,17 @@ VRC updated August 2020
 
 ●	**Ramírez-Castañeda, V.** (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. _PLOS ONE_. [doi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
 
-●	Márquez, R., **Ramírez-Castañeda, V.**, & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in _Phyllobates_ poison-dart frogs? _Evolution, 73(2), 390-400.
+●	Márquez, R., **Ramírez-Castañeda, V.**, & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in _Phyllobates_ poison-dart frogs? _Evolution_, 73(2), 390-400. [https://doi.org/10.1111/evo.13672](https://doi.org/10.1111/evo.13672)
 
-●	Beltrán, I.+, **Ramírez-Castañeda, V.**+, Rodríguez-López, C.+, Lasso, E., & Amézquita, A. (2019). Dealing with hot rocky environments: Critical thermal maxima and locomotor performance in _Leptodactylus lithonaetes_ (Anura: Leptodactylidae). _Herpetological Journal, 29(3).
+●	Beltrán, I.+, **Ramírez-Castañeda, V.**+, Rodríguez-López, C.+, Lasso, E., & Amézquita, A. (2019). Dealing with hot rocky environments: Critical thermal maxima and locomotor performance in _Leptodactylus lithonaetes_ (Anura: Leptodactylidae). _Herpetological Journal_, 29(3). [https://doi.org/10.33256/hj29.3.155161](https://doi.org/10.33256/hj29.3.155161)
 
-●	Gonzàlez-Duarte, R., de Castro-Miró, M., Tuson, M., **Ramírez-Castañeda, V.**, Gils, R. V., & Marfany, G. (2019). Scaling New Heights in the Genetic Diagnosis of Inherited Retinal Dystrophies. In _Retinal Degenerative Diseases_ (pp. 215-219). Springer, Cham.
+●	Gonzàlez-Duarte, R., de Castro-Miró, M., Tuson, M., **Ramírez-Castañeda, V.**, Gils, R. V., & Marfany, G. (2019). Scaling New Heights in the Genetic Diagnosis of Inherited Retinal Dystrophies. In _Retinal Degenerative Diseases_ (pp. 215-219). Springer, Cham.[https://doi.org/10.1007/978-3-030-27378-1_35](https://link.springer.com/chapter/10.1007%2F978-3-030-27378-1_35)
 
-●	Flechas, S. V., Blasco-Zúñiga, A., Merino-Viteri, A., **Ramírez-Castañeda, V.**, Rivera, M., & Amézquita, A. (2017). The effect of captivity on the skin microbial symbionts in three _Atelopus_ species from the lowlands of Colombia and Ecuador. _PeerJ_, 5, e3594. PMID: 28785515
+●	Flechas, S. V., Blasco-Zúñiga, A., Merino-Viteri, A., **Ramírez-Castañeda, V.**, Rivera, M., & Amézquita, A. (2017). The effect of captivity on the skin microbial symbionts in three _Atelopus_ species from the lowlands of Colombia and Ecuador. _PeerJ_, 5, e3594. PMID: 28785515. [https://doi.org/10.7717/peerj.3594](https://doi.org/10.7717/peerj.3594)
 
-●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., **Ramírez-Castañeda, V.**, & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. DOI: 10.11646/zootaxa.4290.3.7
+●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., **Ramírez-Castañeda, V.**, & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. [https://doi.org/10.11646/zootaxa.4290.3.7](https://doi.org/10.11646/zootaxa.4290.3.7)
 
-_+Authors contributed equally 
++ _Authors contributed equally 
 
 ### Thesis
 ●	Ramírez-Castañeda, V. (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
@@ -74,7 +75,7 @@ Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+,
 
 Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
 
-_+Authors contributed equally 
++ _Authors contributed equally 
 
 
 ## Honors & awards
