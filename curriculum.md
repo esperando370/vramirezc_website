@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Valeria Ramírez Castañeda CV
 
 ## Education 
