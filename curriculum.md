@@ -13,19 +13,19 @@ title: Valeria Ramírez Castañeda curriculum
 ●	Bachelor in Biology. Biology (BSc.). National University of Colombia, Bogotá.  August 2008 to December 2013
 
 ## Laboral experience
-●	University of California, Berkeley - Graduate student instructor - From August 2019 to currently active
+●	University of California, Berkeley. Graduate student instructor. August 2019 to currently active
 
-●	DBGen Ocular Genomics - Communication and Research Assistant - From September 2017 to July 2019
+●	DBGen Ocular Genomics. Communication and Research Assistant. September 2017 to July 2019
 
-●	Santillana publisher -Textbook writer - From June 2017 to January 2018
+●	Santillana publisher. Textbook writer. June 2017 to January 2018
 
-●	Santillana publisher -Textbook writer - From August 2016 to October 2016
+●	Santillana publisher. Textbook writer. August 2016 to October 2016
 
-●	University of the Andes, Bogota - Graduate student researcher - From January 2016 to May 2017
+●	University of the Andes, Bogota. Graduate student researcher. January 2016 to May 2017
 
-●	University of the Andes, Bogota - Graduate student instructor - From Aug 2014 to Nov 2015
+●	University of the Andes, Bogota. Graduate student instructor. Aug 2014 to Nov 2015
 
-●	Colombian Institute for the Evaluation of Education ICFES - Exam writer - From Nov 2013 to currently active
+●	Colombian Institute for the Evaluation of Education ICFES. Exam writer. Nov 2013 to currently active
 
 ## Publications
 
@@ -93,3 +93,13 @@ _+Authors contributed equally
 ●	Scholarship for Phylogenetic Tools for Comparative Biology: PCM workshop 2016. University of Massachusetts Boston. San Juan, Puerto Rico. Travel covered. 7 days.
 
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
+
+## Social work experience
+●	Graduate Students Representative, University of the Andes, Bogotá. 2016
+
+●	Blog on science-society relationship and advances in science made by Colombian scientist "Portal Virtual ANURA Ciencia". November 2014 to November 2015
+
+●	Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology in an impoverished neighborhood. December 2010 to December 2015
+
+●	Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
+
