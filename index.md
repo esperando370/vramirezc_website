@@ -1,4 +1,4 @@
-### _Colombian biologist interested in evolutionary biology, herpetology, science communication and inclusion/diversity/equity in STEM_
+## _Colombian biologist interested in evolutionary biology, herpetology, science communication and inclusion/diversity/equity in STEM_
 
 **Complete information in Spanish [here](https://github.com/esperando370/vramirezc_website/edit/master/curriculum.md)/ Información completa en español [aquí](https://github.com/esperando370/vramirezc_website/edit/master/curriculum.md)**
 
