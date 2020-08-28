@@ -2,7 +2,6 @@
 layout: post
 title: Curriculum
 ---
-
 VRC updated August 2020
 
 ## Education 
