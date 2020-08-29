@@ -46,7 +46,7 @@ VRC updated August 2020
 
 ●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., **Ramírez-Castañeda, V.**, & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. [https://doi.org/10.11646/zootaxa.4290.3.7](https://doi.org/10.11646/zootaxa.4290.3.7)
 
-+ _Authors contributed equally_ 
+(+) _Authors contributed equally_ 
 
 ### Thesis
 ●	Ramírez-Castañeda, V. (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
@@ -74,7 +74,7 @@ VRC updated August 2020
 
 ●	Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
 
-+ _Authors contributed equally_ 
+(+) _Authors contributed equally_ 
 
 
 ## Honors & awards
