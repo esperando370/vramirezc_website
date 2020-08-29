@@ -46,7 +46,7 @@ VRC updated August 2020
 
 ●	Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., **Ramírez-Castañeda, V.**, & Amézquita, A. (2017). A new species of _Andinobates_ (Anura: Dendrobatidae) from the Urabá region of Colombia. _Zootaxa_, 4290(3), 531-546. [https://doi.org/10.11646/zootaxa.4290.3.7](https://doi.org/10.11646/zootaxa.4290.3.7)
 
-+ _Authors contributed equally 
++ _Authors contributed equally_ 
 
 ### Thesis
 ●	Ramírez-Castañeda, V. (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
@@ -56,25 +56,25 @@ VRC updated August 2020
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
 ### Science communication and other not peer-reviewed publications
-**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
+●	**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
+●	**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
+●	**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
+●	**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
-**Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
+●	**Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
 
-**Ramírez-Castañeda, V.** (2015). Three steps to understand Darwin thoughts. Portal Virtual ANURA Ciencia
+●	**Ramírez-Castañeda, V.** (2015). Three steps to understand Darwin thoughts. Portal Virtual ANURA Ciencia
 
-**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Cali, Colombia Zoo. (Peer-reviewed). 
+●	**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Cali, Colombia Zoo. (Peer-reviewed). 
 
-Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
+●	Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
 
-Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
+●	Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
 
-+ _Authors contributed equally 
++ _Authors contributed equally_ 
 
 
 ## Honors & awards
