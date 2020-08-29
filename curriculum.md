@@ -102,9 +102,9 @@ Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean C
 ## Social work experience
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
-●	Blog on science-society relationship and advances in science made by Colombian scientist "Portal Virtual ANURA Ciencia". November 2014 to November 2015
+●	Blog on science-society relationship "Portal Virtual ANURA Ciencia". November 2014 to November 2015
 
-●	Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology in an impoverished neighborhood. December 2010 to December 2015
+●	Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology. December 2010 to December 2015
 
 ●	Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
 
