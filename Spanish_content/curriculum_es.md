@@ -56,25 +56,25 @@ VRC actualizado en agosto de 2020
 ● **Ramírez-Castañeda, V.**(2014). Resistencia a la Batrachotoxina (BTX) en la serpiente (_Erythrolamprus epinephelus_) depredador de las ranas venenosas de dardo (_Phyllobates_): Descripción de la secuencia del canal de sodio voltaje dependiente muscular. Tesis de licenciatura (pregrado). Universidad Nacional de Colombia, Bogotá, Colombia.
 
 ### Science communication and other not peer-reviewed publications
-**Ramírez-Castañeda, V.**(2019). [Guerra de hormigas.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
+● **Ramírez-Castañeda, V.**(2019). [Guerra de hormigas.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.**(2018). [El vuelo del Hombre Araña.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
+● **Ramírez-Castañeda, V.**(2018). [El vuelo del Hombre Araña.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2018). [¡Brillante, diminuto y tóxico!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) - Rana de dardo venenoso. Jot Down Kids.
+● **Ramírez-Castañeda, V.** (2018). [¡Brillante, diminuto y tóxico!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) - Rana de dardo venenoso. Jot Down Kids.
 
-**Ramírez-Castañeda, V.** (2016-2019). Artículos recomendados - Morfología y fisiología evolutiva. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
+● **Ramírez-Castañeda, V.** (2016-2019). Artículos recomendados - Morfología y fisiología evolutiva. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
-**Ramírez-Castañeda, V.** (2015). Top 3: Epidemias animales extremas. Portal Virtual ANURA Ciencia
+● **Ramírez-Castañeda, V.** (2015). Top 3: Epidemias animales extremas. Portal Virtual ANURA Ciencia
 
-**Ramírez-Castañeda, V.** (2015). Tres pasos para entender los pensamientos de Darwin. Portal Virtual Anura Ciencia
+● **Ramírez-Castañeda, V.** (2015). Tres pasos para entender los pensamientos de Darwin. Portal Virtual Anura Ciencia
 
-**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guía de anfibios del Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Zoológico de Cali, Colombia. (Revisado por pares). 
+● **Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guía de anfibios del Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Zoológico de Cali, Colombia. (Revisado por pares). 
 
-Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., y otros (Eds.) (2012). [Ecología continental en el Parque Natural del Tayrona.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
+● Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., y otros (Eds.) (2012). [Ecología continental en el Parque Natural del Tayrona.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
 
-Tejiendo Territorio CEAT. (2011). Problemáticas de la minería de oro en la Cordillera de los Andes colombiana. La Sierra, Cauca - Colombia
+● Tejiendo Territorio CEAT. (2011). Problemáticas de la minería de oro en la Cordillera de los Andes colombiana. La Sierra, Cauca - Colombia
 
-+ Los autores contribuyeron por igual 
++ _Los autores contribuyeron por igual 
 
 
 ## Honores y premios
