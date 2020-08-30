@@ -49,9 +49,9 @@ VRC actualizado en agosto de 2020
 (+) _Autores contribuyeron igualmente_ 
 
 ### Tesis
-● Ramírez-Castañeda, V. (2019). Desventajas de la escritura, lectura, publicación y presentación de trabajos científicos causadas por la hegemonía del idioma inglés: El caso del doctorado colombiano en ciencias biológicas. Tesis de maestría. Universidad de Barcelona, Barcelona, España.
+● **Ramírez-Castañeda, V.** (2019). Desventajas de la escritura, lectura, publicación y presentación de trabajos científicos causadas por la hegemonía del idioma inglés: El caso del doctorado colombiano en ciencias biológicas. Tesis de maestría. Universidad de Barcelona, Barcelona, España.
 
-● Ramírez-Castañeda, V. (2017). Origen de las mutaciones en la familia de genes NaV asociadas a la resistencia a las neurotoxinas en los depredadores de serpientes (_Erythrolamprus sp._) de las ranas venenosas de dardo (Dendrobatidae). Tesis de maestría. Universidad de los Andes, Bogotá, Colombia.
+● **Ramírez-Castañeda, V.** (2017). Origen de las mutaciones en la familia de genes NaV asociadas a la resistencia a las neurotoxinas en los depredadores de serpientes (_Erythrolamprus sp._) de las ranas venenosas de dardo (Dendrobatidae). Tesis de maestría. Universidad de los Andes, Bogotá, Colombia.
 
 ● **Ramírez-Castañeda, V.**(2014). Resistencia a la Batrachotoxina (BTX) en la serpiente (_Erythrolamprus epinephelus_) depredador de las ranas venenosas de dardo (_Phyllobates_): Descripción de la secuencia del canal de sodio voltaje dependiente muscular. Tesis de licenciatura (pregrado). Universidad Nacional de Colombia, Bogotá, Colombia.
 
