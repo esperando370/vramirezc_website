@@ -49,9 +49,9 @@ VRC updated August 2020
 (+) _Authors contributed equally_ 
 
 ### Thesis
-●	Ramírez-Castañeda, V. (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
+●	**Ramírez-Castañeda, V.** (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
 
-●	Ramírez-Castañeda, V. (2017). Origin of mutations in the NaV gene family associated with resistance to neurotoxins in snake (_Erythrolamprus sp._) predators of dart poison frogs (Dendrobatidae). Master’s thesis. University of the Andes, Bogota, Colombia.
+●	**Ramírez-Castañeda, V.** (2017). Origin of mutations in the NaV gene family associated with resistance to neurotoxins in snake (_Erythrolamprus sp._) predators of dart poison frogs (Dendrobatidae). Master’s thesis. University of the Andes, Bogota, Colombia.
 
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
