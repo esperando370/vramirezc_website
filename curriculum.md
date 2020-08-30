@@ -55,7 +55,11 @@ VRC updated August 2020
 
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
-### Science communication and other not peer-reviewed publications
+### Science communication, outreach and other not peer-reviewed publications
+●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism and pandemic. July 2020.
+
+●	Organizer of webinar ["Racism in Science - Colombia, Brazil & USA".](https://www.facebook.com/106234834388119/videos/907545009759554). Students group "Guaches & Guarichas". June 2020. 
+
 ●	**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
 ●	**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
@@ -99,7 +103,7 @@ VRC updated August 2020
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
 
 
-## Social work experience
+## Support for social movements
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
 ●	Blog on science-society relationship "Portal Virtual ANURA Ciencia". November 2014 to November 2015
