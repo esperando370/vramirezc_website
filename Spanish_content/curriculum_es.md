@@ -55,7 +55,11 @@ VRC actualizado en agosto de 2020
 
 ● **Ramírez-Castañeda, V.**(2014). Resistencia a la Batrachotoxina (BTX) en la serpiente (_Erythrolamprus epinephelus_) depredador de las ranas venenosas de dardo (_Phyllobates_): Descripción de la secuencia del canal de sodio voltaje dependiente muscular. Tesis de licenciatura (pregrado). Universidad Nacional de Colombia, Bogotá, Colombia.
 
-### Science communication and other not peer-reviewed publications
+### Comunicación y divulgación de la ciencia, y otras publicaciones
+●	Organizador de webinar ["Conspiración en contra de la reconstrucción de UN mundo".](https://www.facebook.com/conspiracionescontralareconstruccion) Conversaciones online de arte, activismo y pandemis. Junio 2020.
+
+●	Organizador de webinar ["Racismo en la ciencia - Colombia, Brasil & EEUU".](https://www.facebook.com/106234834388119/videos/907545009759554). Colectivo juvenil "Guaches & Guarichas". Junio 2020. 
+
 ● **Ramírez-Castañeda, V.**(2019). [Guerra de hormigas.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
 ● **Ramírez-Castañeda, V.**(2018). [El vuelo del Hombre Araña.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
@@ -78,6 +82,8 @@ VRC actualizado en agosto de 2020
 
 
 ## Honores y premios
+● Segundo lugar mención honorífica para la Beca de Investigación EE Williams. La liga de herpetólogos. EEUU.  Abril 2020.
+
 ● Premio a los nuevos talentos de sociolingüística: Tesis de maestría en comunicación científica. Sociedad Catalana de Sociolingüística. Universidad de Barcelona. Barcelona, España. Mayo 2019.
 
 ● Distinción a la excelencia académica. Universidad Nacional de Colombia. Bogotá, Colombia. Exención de matrícula. 2008-2013
@@ -99,7 +105,7 @@ VRC actualizado en agosto de 2020
 ● IV Congreso Nacional de Zoología, Cartagena, Colombia. Beca para estudiantes latinoamericanos 2014. 100 USD. 4 días.
 
 
-## Experiencia en trabajo social
+## Acompañamiento de movimientos sociales
 ● Representante de los estudiantes graduados. Departamento de Ciencias Biológicas, Universidad de los Andes, Bogotá. 2016
 
 ● Blog sobre la relación entre ciencia y sociedad "Portal Virtual ANURA Ciencia". Noviembre 2014 a Noviembre 2015
@@ -107,4 +113,6 @@ VRC actualizado en agosto de 2020
 ● Pre-universitario sin fines de lucro "Colectivo EsCuadra Educativa", Bogotá. Instructor voluntario para talleres de educación ambiental, derechos humanos, conflictos de género, química y biología. Diciembre de 2010 a diciembre de 2015
 
 ● Taller de problemas de minería de oro en la Cordillera Andina Colombiana "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. Enero de 2011 a enero de 2012
+
+**Volver a [página principal](./index_es.md/)**
 
