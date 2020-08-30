@@ -114,3 +114,4 @@ VRC updated August 2020
 
 ●	Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
 
+**Go back to the [main page](./index.md)**
