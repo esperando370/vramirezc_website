@@ -82,6 +82,8 @@ VRC updated August 2020
 
 
 ## Honors & awards
+●	Second place honorable mention for the EE Williams Research Grant. The herpetologist' league. Spring semester 2020.
+
 ●	New Talents in Sociolinguistics Award for Master’s thesis in Science Communication. Catalan Sociolinguistic Society. University of Barcelona. Barcelona, Spain. Spring semester 2019.
 
 ●	Academic Excellence Distinction. National University of Colombia. Bogotá, Colombia. Tuition exemption. 2008-2013
