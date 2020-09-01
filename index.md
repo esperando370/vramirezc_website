@@ -13,15 +13,11 @@ I work with an excellent group of scientists lead by Rebecca Tarvin. For more in
 
 ### Active research interests
 
-- snakes
-![Erythrolamprus_reginae](./Liophis_reginae.jpg)
+- Adaptations to new environments or novel interactions among organisms increases biological diversity. One type of interaction that often drives biological diversification is predator-prey interactions, which could result in co-evolution between different organisms adjacent in a food web. For my PhD, I am working with snake predators of poison frogs in Colombia to evaluate how multiple predators have adapted to feeding on a cocktail of toxins (poison frogs secrete multiple alkaloids).
+![Erythrolamprus_reginae](./Liophis_reginae.jpg) _Erythrolamprus reginae. Photo: Andreas Schlüter CC BY-SA 2.5_
 
-
-![Translate_your_work](./Translate your work postal (1).jpg)
-- jjtyyjjy
-- english
 - 
--
+![Translate_your_work](./Translate your work postal (1).jpg)
 
 For past research interests, check on my [curriculum](./curriculum.md).
 
