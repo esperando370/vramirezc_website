@@ -14,10 +14,10 @@ I work with an excellent group of scientists lead by Rebecca Tarvin. For more in
 ### Active research interests
 
 - snakes
-![sksks](./Liophis_reginae.jpg)
+![Erythrolamprus_reginae](./Liophis_reginae.jpg)
 
 
-![jdjdj](./Translate your work postal (1).jpg)
+![Translate_your_work](./Translate your work postal (1).jpg)
 - jjtyyjjy
 - english
 - 
