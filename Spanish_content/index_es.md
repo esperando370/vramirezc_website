@@ -9,7 +9,7 @@ Soy una estudiante de doctorado en el Departamento de Biología Integrativa en l
 
 Actualmente mis principales intereses de investigación son la comprensión de la evolución de los rasgos generados por las interacciones entre organismos, especialmente por las interacciones depredador-presa, enfocándome en anfibios y reptiles. Me interesa la evolución de la resistencia a toxinas con énfasis en la base genética de la resistencia a las neurotoxinas. Por otro lado, me gusta contribuir a la divulgación científica en español y a la diversidad,inclusión y equidad en ciencia y tecnología. 
 
-Consulta mi [curriculum](./Spanish_content/curriculum_es.md) completo y en inglés [aquí](./curriculum.md)
+Consulta mi [curriculum](./curriculum_es.md) completo y en inglés [aquí](../curriculum.md)
 
 Trabajo con un excelente grupo de científic@s liderad@s por Rebecca Tarvin. Más información sobre nuestro [laboratorio aquí](https://www.tarvinlab.org/).
 
