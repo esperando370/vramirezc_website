@@ -22,7 +22,7 @@ I work with an excellent group of scientists lead by Rebecca Tarvin. For more in
 
 ![Translate_your_work](./Translate your work postal (1).jpg)
 
-For past research interests, check on my [curriculum](./curriculum.md).
+For complete research interests, check on my [curriculum](./curriculum.md).
 
 ### Contact
 email: vramirezc [at] berkeley [dot] edu
