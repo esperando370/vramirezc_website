@@ -21,7 +21,7 @@ Trabajo con un excelente grupo de científic@s liderad@s por Rebecca Tarvin. Má
 
 - El dominio del inglés influye en el "éxito" individual de un investigador, esto crea una presión constante para aprender y mejorar el inglés. Además, existe una fuerte correlación entre el dominio del inglés y la innovación tecnológica, estas tendencias probablemente generan una brecha global en la productividad científica y el uso del conocimiento científico en los países con bajo dominio del inglés. Un objetivo principal para mí como científica es comprender y generar alternativas a los efectos de la hegemonía del inglés.
 
-![Traduce_tu_trabajo](./Traduce tu trabajo postal (1).jpg)
+![Traduce_tu_trabajo](./Traducetutrabajo.jpg)
 
 Para ver mis intereses de investigación completos, consulte mi [curriculum](./Spanish_content/curriculum_es.md).
 
@@ -30,4 +30,4 @@ correo electrónico: vramirezc [@] berkeley [.] edu
 
 twitter: [@Valeria_RamCas](https://twitter.com/Valeria_RamCas)
 
-*Siempre dispuesta a colaborar e iniciar nuevos proyectos ¡No duden en contactarme!
+**_Siempre dispuesta a colaborar e iniciar nuevos proyectos ¡No duden en contactarme!_**
