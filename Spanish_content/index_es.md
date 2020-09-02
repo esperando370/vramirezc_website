@@ -1,7 +1,7 @@
 
 ## Bióloga colombiana interesada en biología evolutiva, herpetología, divulgación científica, e inclusión, diversidad y equidad en ciencia y tecnología
 
-**Información completa en inglés/ Complete information in English [here](../index.md)**
+**_Información completa en inglés/ Complete information in English [here](../index.md)_**
 
 ### Sobre mí
 
