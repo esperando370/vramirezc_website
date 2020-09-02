@@ -5,9 +5,9 @@
 
 ### Sobre mí
 
-Soy una estudiante de doctorado en el Departamento de Biología Integrativa en la Universidad de California Berkeley. Terminé un pregrado en Biología en la Universidad Nacional de Colombia, y estudié una maestría en Ciencias Biológicas en la Universidad de los Andes en Colombia y una maestría en Comunicación Científica en la Universidad de Barcelona en España. Tengo cinco años de experiencia en investigación en fisiología animal, biología evolutiva y biología molecular. Un año de experiencia trabajando en el diagnóstico genético de patologías hereditarias humanas. Tres años de experiencia enseñando laboratorio de biología general y laboratorio de fisiología animal para estudiantes universitarios. También disfruto de los proyectos de comunicación de la ciencia (particularmente en español) y de investigación sobre la relación ciencia-sociedad.
+Soy una estudiante de doctorado en el Departamento de Biología Integrativa en la Universidad de California, Berkeley. Terminé mi pregrado en Biología en la Universidad Nacional de Colombia, y estudié dos maestrías, una en Ciencias Biológicas en la Universidad de los Andes en Colombia y otra en Comunicación Científica en la Universidad de Barcelona en España. Tengo cinco años de experiencia en investigación en fisiología animal, biología evolutiva y biología molecular. Además, cuento con tres años de experiencia enseñando laboratorio de biología general y laboratorio de fisiología animal para estudiantes universitarios. También disfruto de los proyectos de comunicación de la ciencia (particularmente en español) y de investigación sobre la relación ciencia-sociedad.
 
-Actualmente, mis principales intereses de investigación son la comprensión de la evolución de los rasgos generados por las interacciones entre organismos, especialmente por las interacciones depredador-presa, sobre todo en anfibios y reptiles. Me interesa la evolución de la resistencia toxinas y la base genética de la resistencia a las neurotoxinas. Por otro lado, me gusta contribuir a la comunicación científica en español y a la diversidad/inclusión y equidad en ciencia y tecnología. 
+Actualmente mis principales intereses de investigación son la comprensión de la evolución de los rasgos generados por las interacciones entre organismos, especialmente por las interacciones depredador-presa, enfocándome en anfibios y reptiles. Me interesa la evolución de la resistencia a toxinas con énfasis en la base genética de la resistencia a las neurotoxinas. Por otro lado, me gusta contribuir a la comunicación científica en español y a la diversidad,inclusión y equidad en ciencia y tecnología. 
 
 Consulta mi [curriculum](./Spanish_content/curriculum_es.md) completo y en inglés [aquí](./curriculum.md)
 
@@ -30,4 +30,4 @@ correo electrónico: vramirezc [@] berkeley [.] edu
 
 twitter: [@Valeria_RamCas](https://twitter.com/Valeria_RamCas)
 
-*¡Siempre dispuesta a colaborar e iniciar nuevos proyectos. No duden en contactarme!
+*Siempre dispuesta a colaborar e iniciar nuevos proyectos ¡No duden en contactarme!
