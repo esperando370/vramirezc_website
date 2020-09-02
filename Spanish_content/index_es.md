@@ -16,6 +16,7 @@ Trabajo con un excelente grupo de científic@s liderad@s por Rebecca Tarvin. Má
 ### Intereses de investigación activos
 
 - La adaptación a nuevos entornos o a nuevas interacciones entre organismos aumenta la diversidad biológica. Un tipo de interacción que a menudo impulsa la diversificación biológica son las interacciones entre depredadores y presas, que podrían dar lugar a la coevolución entre diferentes organismos adyacentes en una red alimentaria. Para mi doctorado, estoy trabajando con serpientes depredadoras de ranas venenosas en Colombia para evaluar cómo múltiples depredadores se han adaptado a alimentarse de un cóctel de toxinas (las ranas venenosas secretan múltiples alcaloides).
+
 ![Erythrolamprus_reginae](./Liophis_reginae.jpg) _Erythrolamprus reginae. Foto: Andreas Schlüter CC BY-SA 2.5_
 
 - El dominio del inglés influye en el "éxito" individual de un investigador, esto crea una presión constante para aprender y mejorar el inglés. Además, existe una fuerte correlación entre el dominio del inglés y la innovación tecnológica, estas tendencias probablemente generan una brecha global en la productividad científica y el uso del conocimiento científico en los países con bajo dominio del inglés. Un objetivo principal para mí como científica es comprender y generar alternativas a los efectos de la hegemonía del inglés.
