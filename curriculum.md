@@ -56,6 +56,9 @@ VRC updated August 2020
 ●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
 
 ### Science communication, outreach and other not peer-reviewed publications
+
+●	Coauthor from Tarvin Lab project called [Amphibioscope](https://twitter.com/amphibioscope). Daily horoscope bot that infuses AI-generated horoscopes with amphibian life-history data from AmphibiaWeb for science communication and entertainment purposes. 
+
 ●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism and pandemic. July 2020.
 
 ●	Organizer of webinar ["Racism in Science - Colombia, Brazil & USA".](https://www.facebook.com/106234834388119/videos/907545009759554). Students group "Guaches & Guarichas". June 2020. 
