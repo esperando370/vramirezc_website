@@ -56,6 +56,8 @@ VRC actualizado en agosto de 2020
 ● **Ramírez-Castañeda, V.**(2014). Resistencia a la Batrachotoxina (BTX) en la serpiente (_Erythrolamprus epinephelus_) depredador de las ranas venenosas de dardo (_Phyllobates_): Descripción de la secuencia del canal de sodio voltaje dependiente muscular. Tesis de licenciatura (pregrado). Universidad Nacional de Colombia, Bogotá, Colombia.
 
 ### Comunicación y divulgación de la ciencia, y otras publicaciones
+● Coautora del proyecto del Laboratorio de Rebecca Tarvin titulado [Amphibioscope](https://twitter.com/amphibioscope). Bot de horóscopo diario que mezcla un horóscopo generado por una IA con datos de la historia de la vida de los anfibios de AmphibiaWeb con fines de comunicación científica y de entretenimiento. 
+
 ●	Organizador de webinar ["Conspiración en contra de la reconstrucción de UN mundo".](https://www.facebook.com/conspiracionescontralareconstruccion) Conversaciones online de arte, activismo y pandemis. Junio 2020.
 
 ●	Organizador de webinar ["Racismo en la ciencia - Colombia, Brasil & EEUU".](https://www.facebook.com/106234834388119/videos/907545009759554). Colectivo juvenil "Guaches & Guarichas". Junio 2020. 
