@@ -109,7 +109,7 @@ VRC updated August 2020
 
 ## Press
 ●	Science editorial. 2020. [Not writing in English has been a barrier for Colombian scientists
-](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ)._El Espectador_. Colombia
+](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ). _El Espectador_. Colombia
  
 ## Support for social movements
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
