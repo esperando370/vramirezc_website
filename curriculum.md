@@ -34,7 +34,7 @@ VRC updated August 2020
 
 ### Peer-reviewed articles
 
-●	**Ramírez-Castañeda, V.** (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. _PLOS ONE_. [doi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
+●	**Ramírez-Castañeda, V.** (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. _PLOS ONE_. [https://doi.org/10.1371/journal.pone.0238372](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
 
 ●	Márquez, R., **Ramírez-Castañeda, V.**, & Amézquita, A. (2019). Does batrachotoxin autoresistance coevolve with toxicity in _Phyllobates_ poison-dart frogs? _Evolution_, 73(2), 390-400. [https://doi.org/10.1111/evo.13672](https://doi.org/10.1111/evo.13672)
 
@@ -107,7 +107,10 @@ VRC updated August 2020
 
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
 
-
+## Press
+●	Science editorial. 2020. [Not writing in English has been a barrier for Colombian scientists
+](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ)._El Espectador_. Colombia
+ 
 ## Support for social movements
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
