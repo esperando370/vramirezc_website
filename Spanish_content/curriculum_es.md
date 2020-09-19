@@ -34,7 +34,7 @@ VRC actualizado en agosto de 2020
 
 ### Artículos revisados por pares
 
-● **Ramírez-Castañeda, V.** (2020). Desventajas en la preparación y publicación de artículos científicos causadas por la hegemonia del idioma inglés en la ciencia: El caso de los investigadores colombianos en ciencias biológicas. PLOS ONE_. [doi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
+● **Ramírez-Castañeda, V.** (2020). Desventajas en la preparación y publicación de artículos científicos causadas por la hegemonia del idioma inglés en la ciencia: El caso de los investigadores colombianos en ciencias biológicas. PLOS ONE_. [https://doi.org/10.1371/journal.pone.0238372](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
 
 ● Márquez, R., **Ramírez-Castañeda, V.**, & Amézquita, A. (2019). ¿La autorresistencia de la batracotoxina coevoluciona con la toxicidad en las ranas _Phyllobates_ de dardo venenoso? _Evolution_, 73(2), 390-400. [https://doi.org/10.1111/evo.13672](https://doi.org/10.1111/evo.13672)
 
@@ -106,6 +106,8 @@ VRC actualizado en agosto de 2020
 
 ● IV Congreso Nacional de Zoología, Cartagena, Colombia. Beca para estudiantes latinoamericanos 2014. 100 USD. 4 días.
 
+## Prensa
+●	Redacción de ciencias. 2020. [No escribir en inglés ha sido una barrera para los científicos colombianos](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ)._El Espectador_. Colombia
 
 ## Acompañamiento de movimientos sociales
 ● Representante de los estudiantes graduados. Departamento de Ciencias Biológicas, Universidad de los Andes, Bogotá. 2016
