@@ -97,6 +97,8 @@ VRC updated August 2020
 ## Scholarships, fellowships and grants
 ●	P.E.O. International Peace Scholarship. USA 2020. International Chapter of the P.E.O. Sisterhood. 12500 USD. 1 year.
 
+●	MVZ Research funding. USA 2020. Museum of Vertebrate Zoology at UC Berkeley. 2000 USD. 1 year. 
+
 ● Grants-in-Aid of Research (GIAR). USA 2020. Berkeley Chapter of Sigma Xi. 500 USD. 6 months.
 
 ● Evolution Meetings - Montpellier, France 2018. International Committee Travel Award. Society for the Study of Evolution. 500 USD. 4 days.
