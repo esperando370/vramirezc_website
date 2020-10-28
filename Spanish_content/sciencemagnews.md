@@ -1,5 +1,30 @@
 
-Original de: 
+---
+layout: post
+title: Hegemonia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar que esto cambie
+---
+Original de: https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change
+
+Cuando Valeria Ramírez Castañeda era estudiante de maestría en biología en la Universidad de los Andes en Colombia, la idea de escribir su tesis en inglés le daba dolor de cabeza. Escribirla en español cumpliría con su requisito de graduación, pero si la escribía en inglés, sería mucho más fácil convertirla en un trabajo que pudiera presentar inmediatamente para su publicación. Ramírez Castañeda lo intentó, pero después de semanas de frustración se rindió. "Era imposible", dice. "Con el poco tiempo que tenía y con todo el esfuerzo mental que se necesita para escribir sobre la ciencia, no podía hacerlo en inglés".
+
+Marcada por su experiencia en la maestría, Ramírez Castañeda -ahora estudiante de doctorado en biología evolutiva en la Universidad de California, Berkeley- decidió explorar las barreras y la carga emocional que otros investigadores enfrentan cuando publican en un idioma que no es el primero. Las desventajas, como se informó en un artículo publicado el mes pasado en PLOS ONE, son significativas. Para los 49 biólogos colombianos encuestados por Ramírez Castañeda, la preparación de un manuscrito en inglés tomó en promedio unos 12 días hábiles más que si escribieran en español. Casi la mitad de los encuestados reportaron que sus trabajos fueron rechazados debido a su gramática inglesa, y un tercio eligió no asistir a una reunión debido a la ansiedad por presentar en inglés. "Estamos cerrando el conocimiento para un montón de gente", dice Ramírez Castañeda.
+
+Este tipo de luchas a menudo viven sólo como anécdotas y como duras realidades del trabajo entre los hablantes no nativos. Pero los resultados de Ramírez Castañeda se suman a un pequeño pero creciente cuerpo de trabajo que proporciona evidencia concreta de cómo las barreras lingüísticas afectan a los angloparlantes no nativos y obstaculizan la diversidad en la ciencia.
+
+Encuestas realizadas a científicos mexicanos, hispanohablantes y taiwaneses, investigadores de habla china mandarina revelaron que estos autores encontraron significativamente más difícil escribir artículos científicos en inglés que en sus lenguas nativas. Escribir en inglés también aumentó su insatisfacción y ansiedad. "Los resultados son bastante claros", dice David Hanauer, lingüista de la Universidad de Indiana de Pennsylvania y coautor de los estudios: El inglés representaba la misma carga para ambos grupos.
+
+"A nivel mundial, es casi seguro que la mayoría de los científicos no son hablantes nativos de inglés", dice Michael Gordin, historiador de la ciencia de la Universidad de Princeton. Sin embargo, tienen que aprender inglés para comunicar su trabajo en las revistas internacionales, lo cual es clave para avanzar en sus carreras. Aunque tener un idioma común ofrece algunas ventajas, dice Gordin, "las cuestiones de justicia e igualdad son significativas".
+
+Para Ramírez Castañeda, la retroalimentación de su investigación ha reforzado su preocupación por el tema. "Tengo amigos que me escribieron diciendo: 'Estoy a punto de dejar la ciencia por el inglés', o 'no he podido graduarme porque no puedo pagar los cursos de inglés'", dice. "Ha sido muy emotivo".
+
+Entonces, ¿qué puede hacer la comunidad científica para reparar esta injusticia lingüística? Cuando se revisan manuscritos, los revisores deben centrarse en la ciencia y no en la gramática, dicen Ramírez Castañeda y Hanauer. Los editores deben hacer hincapié en este punto al enviar los artículos para su revisión. Los revisores pueden sugerir que se mejore el inglés, pero no debe ser motivo de rechazo. Cuando se necesite la corrección de pruebas y la edición en inglés, las tarifas de las editoriales existentes deberían pagar por estos servicios, dice Ramírez Castañeda.
+
+Debido a que las instituciones también se benefician de los trabajos publicados, Ramírez Castañeda continúa, deberían ofrecer servicios de traducción y corrección de pruebas a sus investigadores. Las universidades de los países de habla inglesa deberían proporcionar a los estudiantes internacionales las herramientas necesarias para publicar en inglés, concuerda Hanauer, especialmente porque estos estudiantes suelen pagar tasas de matrícula más altas que los estudiantes nacionales. Ramírez Castañeda también propone que las universidades ofrezcan clases de inglés gratuitas a los estudiantes de ciencias. Hoy en día, la "responsabilidad" de aprender inglés recae en los individuos, no en las instituciones, dice, "y eso no puede ser más".
+
+La comunidad científica también debe reconocer y aceptar los trabajos publicados en todos los idiomas, dice Tatsuya Amano, un científico de la conservación de la Universidad de Queensland en Australia. Hacerlo no sólo ayudaría a diversificar la ciencia, sino que también enriquecería la investigación con mayor creatividad y precisión, sostiene Hanauer. Por ejemplo, los meta-análisis de los trabajos de conservación de la biodiversidad ignoran los que no fueron publicados en inglés, que representan más de un tercio del total de los trabajos sobre el tema, según la investigación de Amano y sus colegas. "Los anglófonos se han convertido en los guardianes de la ciencia, excluyendo una amplia variedad de opiniones y perspectivas", dice Amano, cuya primera lengua es el japonés. "Este no es un tema sólo para los no nativos, sino también para los nativos de habla inglesa".
+
+
+
 También es importante ampliar los idiomas en los que se publican las investigaciones. Por ejemplo, los organismos de financiación podrían ordenar que las publicaciones que salgan de sus subvenciones se traduzcan al idioma nativo del país en el que se haya realizado la mayor parte de la investigación, dice Gordin. "Sólo se requiere que los responsables de las políticas lo vean como una cuestión real".
 
 Todas estas soluciones son factibles, pero requieren educación, tiempo, dinero y voluntad. "La razón por la que [las soluciones] no se han implementado", dice Gordin, "es que la gente con más poder y dinero -los anglófonos- se benefician del sistema ahora sin pagar el precio".
