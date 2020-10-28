@@ -3,7 +3,7 @@
 layout: post
 title: Hegemonia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar que esto cambie
 ---
-Original de: https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change
+Original de: Pérez Ortega. 2020. Science’s English dominance hinders diversity—but the community can work toward change. Sciencemag. Oct 28. [doi:10.1126/science.caredit.abf4697](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
 
 Cuando Valeria Ramírez Castañeda era estudiante de maestría en biología en la Universidad de los Andes en Colombia, la idea de escribir su tesis en inglés le daba dolor de cabeza. Escribirla en español cumpliría con su requisito de graduación, pero si la escribía en inglés, sería mucho más fácil convertirla en un trabajo que pudiera presentar inmediatamente para su publicación. Ramírez Castañeda lo intentó, pero después de semanas de frustración se rindió. "Era imposible", dice. "Con el poco tiempo que tenía y con todo el esfuerzo mental que se necesita para escribir sobre la ciencia, no podía hacerlo en inglés".
 
@@ -33,4 +33,4 @@ Pero el movimiento sobre el tema permitiría en última instancia una difusión 
 
 
 
-Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega
+_Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega_
