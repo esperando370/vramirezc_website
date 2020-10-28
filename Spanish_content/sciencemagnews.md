@@ -1,6 +1,5 @@
 
 ---
-layout: post
 title: Hegemonia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar que esto cambie
 ---
 Original de: Pérez Ortega. 2020. Science’s English dominance hinders diversity—but the community can work toward change. Sciencemag. Oct 28. [doi:10.1126/science.caredit.abf4697](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
