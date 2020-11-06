@@ -1,9 +1,9 @@
 
 ---
-###La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
+La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
 ---
 
-**Por Rodrigo Pérez Ortega
+**Por Rodrigo Pérez Ortega**
 
 [Este artículo se publicó primero en inglés en la revista _Science_](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
 
