@@ -3,7 +3,9 @@
 La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
 ---
 
-“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS." **"Traducido y re-publicado con permiso de la AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)**
+“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS." 
+
+**"Traducido y re-publicado con permiso de AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)**
 
 
 **Por Rodrigo Pérez Ortega**
