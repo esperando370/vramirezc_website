@@ -109,6 +109,8 @@ VRC actualizado en agosto de 2020
 ## Prensa
 ●	Redacción de ciencias. 2020. [No escribir en inglés ha sido una barrera para los científicos colombianos](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ)._El Espectador_. Colombia
 
+●	Robert Sanders. 2020. [El inglés es la lingua franca en la ciencia? No para todos.](https://news.berkeley.edu/2020/10/14/is-english-the-lingua-franca-of-science-not-for-everyone/). _Berkeley news_. University of California Berkeley. 
+
 ● Pérez Ortega, R. 2020. La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie. _Science_. [doi:10.1126/science.caredit.abf4697](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change). Traducción al español [aquí](./sciencemagnews.md)
 
 ## Acompañamiento de movimientos sociales
