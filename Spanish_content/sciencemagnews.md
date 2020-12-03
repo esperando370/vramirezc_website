@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
+title: La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
 ---
 
 Volver a [currículum](./curriculum_es.md)
@@ -9,7 +9,7 @@ Volver a [currículum](./curriculum_es.md)
 _ _ _ _ _ 
 _“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS."_ 
 
-_"Traducido y re-publicado con permiso de AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
+_"Traducido y re-publicado con permiso de AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)_
 _ _ _ _ _ 
 
 **_Por Rodrigo Pérez Ortega_**
@@ -17,7 +17,7 @@ _ _ _ _ _
 
 Cuando Valeria Ramírez Castañeda era estudiante de maestría en biología en la Universidad de los Andes en Colombia, la idea de escribir su tesis en inglés le daba dolor de cabeza. Escribirla en español cumpliría con su requisito de graduación, pero si la escribía en inglés sería mucho más fácil convertirla en un artículo que pudiera someter inmediatamente para su publicación en una revista internacional. Ramírez Castañeda lo intentó, pero después de semanas de frustración se rindió. "Era imposible", dice. "Con el poco tiempo que tenía y con todo el esfuerzo mental que se necesita para escribir sobre ciencia, no podía escribirla en inglés".
 
-Marcada por su experiencia en la maestría, Ramírez Castañeda —ahora estudiante de doctorado en biología evolutiva en la Universidad de California, Berkeley— decidió explorar las barreras y la carga emocional que otros investigadores enfrentan cuando publican en un idioma que no es su lengua materna. Las desventajas, como se evidencían en un artículo publicado el mes pasado en PLOS ONE ([ver en anexos artículo completo en español](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)), son significativas. Para los 49 biólogos colombianos encuestados por Ramírez Castañeda, la preparación de un manuscrito en inglés tomó en promedio unos 12 días hábiles más que si hubieran escrito en español. Casi la mitad de los encuestados reportaron que sus trabajos fueron rechazados debido a su gramática en inglés, y un tercio eligió no asistir a conferencias debido a la ansiedad por presentar en inglés. "Estamos cerrando el conocimiento para un montón de gente", dice Ramírez Castañeda.
+Marcada por su experiencia en la maestría, Ramírez Castañeda —ahora estudiante de doctorado en biología evolutiva en la Universidad de California, Berkeley— decidió explorar las barreras y la carga emocional que otros investigadores enfrentan cuando publican en un idioma que no es su lengua materna. Las desventajas, como se evidencían en un artículo publicado el mes pasado en PLOS ONE, son significativas ([ver en anexos artículo completo en español](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)). Para los 49 biólogos colombianos encuestados por Ramírez Castañeda, la preparación de un manuscrito en inglés tomó en promedio unos 12 días hábiles más que si hubieran escrito en español. Casi la mitad de los encuestados reportaron que sus trabajos fueron rechazados debido a su gramática en inglés, y un tercio eligió no asistir a conferencias debido a la ansiedad por presentar en inglés. "Estamos cerrando el conocimiento para un montón de gente", dice Ramírez Castañeda.
 
 Este tipo de dificultades a menudo se viven sólo como anécdotas y como duras realidades del trabajo entre aquellos cuya lengua materna no es inglés. Pero los resultados de Ramírez Castañeda se suman a un pequeño pero creciente grupo de trabajos que proporciona evidencia concreta de cómo las barreras lingüísticas afectan a los angloparlantes no nativos y obstaculizan la diversidad en la ciencia.
 
