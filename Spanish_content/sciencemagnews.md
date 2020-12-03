@@ -3,9 +3,9 @@
 La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
 ---
 
-“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS." 
+_“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS."_ 
 
-"Traducido y re-publicado con permiso de AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)**
+_"Traducido y re-publicado con permiso de AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)_
 
 
 **_Por Rodrigo Pérez Ortega_**
@@ -36,6 +36,7 @@ Todas estas soluciones son factibles, pero requieren educación, tiempo, dinero 
 Pero ir moviendo el tema permitiría en última instancia una difusión más diversa y equitativa de los conocimientos científicos, lo que sólo mejoraría la ciencia en general. "Un pequeño cambio haría una verdadera diferencia", dice Amano.
 
 
+_ _ _ _ _ 
 
 _Descargo de responsabilidad: "Los lectores pueden ver, navegar y/o descargar el material sólo con fines de copia temporal, siempre que estos usos sean para fines personales no comerciales. Excepto en los casos previstos por la ley, este material no puede ser reproducido, distribuido, transmitido, modificado, adaptado, ejecutado, mostrado, publicado o vendido en su totalidad o en parte, sin el permiso previo por escrito del editor"._
 
