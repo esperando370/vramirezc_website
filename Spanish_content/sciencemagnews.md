@@ -3,9 +3,11 @@
 La dominancia del inglés en la ciencia dificulta la diversidad, pero la comunidad puede trabajar para que esto cambie
 ---
 
+“Science’s English dominance hinders diversity—but the community can work toward change” by By Rodrigo Pérez Ortega ScienceCareers, Oct. 28, 2020 https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change. Translated and re-published with permission from AAAS.  This translation is not an official translation by AAAS staff. In crucial matters, please refer to the official English-language version originally published by AAAS."
+
 **Por Rodrigo Pérez Ortega**
 
-[Este artículo se publicó primero en inglés en la revista _Science_](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
+**"Traducido y re-publicado con permiso de la AAAS.  Esta traducción no es una traducción oficial del personal de la AAAS. En asuntos cruciales, por favor refiérase a [la versión oficial en inglés originalmente publicada por la AAAS"](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)**
 
 Cuando Valeria Ramírez Castañeda era estudiante de maestría en biología en la Universidad de los Andes en Colombia, la idea de escribir su tesis en inglés le daba dolor de cabeza. Escribirla en español cumpliría con su requisito de graduación, pero si la escribía en inglés sería mucho más fácil convertirla en un artículo que pudiera someter inmediatamente para su publicación en una revista internacional. Ramírez Castañeda lo intentó, pero después de semanas de frustración se rindió. "Era imposible", dice. "Con el poco tiempo que tenía y con todo el esfuerzo mental que se necesita para escribir sobre ciencia, no podía escribirla en inglés".
 
@@ -31,4 +33,11 @@ Todas estas soluciones son factibles, pero requieren educación, tiempo, dinero 
 
 Pero ir moviendo el tema permitiría en última instancia una difusión más diversa y equitativa de los conocimientos científicos, lo que sólo mejoraría la ciencia en general. "Un pequeño cambio haría una verdadera diferencia", dice Amano.
 
-_Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega_
+
+
+_Descargo de responsabilidad: "Los lectores pueden ver, navegar y/o descargar el material sólo con fines de copia temporal, siempre que estos usos sean para fines personales no comerciales. Excepto en los casos previstos por la ley, este material no puede ser reproducido, distribuido, transmitido, modificado, adaptado, ejecutado, mostrado, publicado o vendido en su totalidad o en parte, sin el permiso previo por escrito del editor"._
+_Disclaimer: "Readers may view, browse, and/or download material for temporary copying purposes only, provided these uses are for noncommercial personal purposes. Except as provided by law, this material may not be further reproduced, distributed, transmitted, modified, adapted, performed, displayed, published, or sold in whole or in part, without prior written permission from thepublisher."_
+
+
+_**Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega**_
+
