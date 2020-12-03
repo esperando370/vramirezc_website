@@ -36,6 +36,7 @@ Todas estas soluciones son factibles, pero requieren educación, tiempo, dinero 
 
 Pero ir moviendo el tema permitiría en última instancia una difusión más diversa y equitativa de los conocimientos científicos, lo que sólo mejoraría la ciencia en general. "Un pequeño cambio haría una verdadera diferencia", dice Amano.
 
+_**Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega**_
 
 _ _ _ _ _ 
 
@@ -44,5 +45,5 @@ _Descargo de responsabilidad: "Los lectores pueden ver, navegar y/o descargar el
 _Disclaimer: "Readers may view, browse, and/or download material for temporary copying purposes only, provided these uses are for noncommercial personal purposes. Except as provided by law, this material may not be further reproduced, distributed, transmitted, modified, adapted, performed, displayed, published, or sold in whole or in part, without prior written permission from thepublisher."_
 
 
-_**Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator. Correcciones por Valeria Ramírez Castañeda y Rodrigo Pérez Ortega**_
+
 
