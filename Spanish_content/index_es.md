@@ -9,7 +9,7 @@ Soy una estudiante de doctorado en el Departamento de Biología Integrativa en l
 
 Actualmente mis principales intereses de investigación son la comprensión de la evolución de los rasgos generados por las interacciones entre organismos, especialmente por las interacciones depredador-presa, enfocándome en anfibios y reptiles. Me interesa la evolución de la resistencia a toxinas con énfasis en la base genética de la resistencia a las neurotoxinas. Por otro lado, me gusta contribuir a la divulgación científica en español y a la diversidad,inclusión y equidad en ciencia y tecnología. 
 
-Consulta mi [curriculum](./curriculum_es.md) completo y en inglés [aquí](../curriculum.md)
+Consulta mi [currículum](./curriculum_es.md) completo y en inglés [aquí](../curriculum.md)
 
 Trabajo con un excelente grupo de científic@s liderad@s por Rebecca Tarvin. Más información sobre nuestro [laboratorio aquí](https://www.tarvinlab.org/).
 
@@ -19,7 +19,7 @@ Trabajo con un excelente grupo de científic@s liderad@s por Rebecca Tarvin. Má
 
 ![Erythrolamprus_reginae](../Liophis_reginae.jpg) _Erythrolamprus reginae. Foto: Andreas Schlüter CC BY-SA 2.5_
 
-- El dominio del inglés influye en el "éxito" individual de un investigador, esto crea una presión constante para aprender y mejorar el inglés. Además, existe una fuerte correlación entre el dominio del inglés y la innovación tecnológica, estas tendencias probablemente generan una brecha global en la productividad científica y el uso del conocimiento científico en los países con bajo dominio del inglés. Un objetivo principal para mí como científica es comprender y generar alternativas a los efectos de la hegemonía del inglés.
+- El dominio del inglés influye en el "éxito" individual de un investigador, esto crea una presión constante para aprender y mejorar el inglés. Además, existe una fuerte correlación entre el dominio del inglés y la innovación tecnológica, estas tendencias probablemente generan una brecha global en la productividad científica y el uso del conocimiento científico en los países con bajo dominio del inglés. Un objetivo principal para mí como científica es comprender y generar alternativas a los efectos de la hegemonía del inglés. 
 
 ![Traduce_tu_trabajo](./Traducetutrabajo.jpg)
 
