@@ -69,7 +69,7 @@ VRC updated August 2020
 
 ●	**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
 
-●	**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
+●	**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. Colombian Society of Evolution (COLEVOL). [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
 
 ●	**Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
 
@@ -100,7 +100,7 @@ VRC updated August 2020
 
 ●	E.E. Williams Research Grant. USA 2021. Herpetologist' league. 1000 USD. 1 year. 
 
-●	Tinker Field Research Award. USA 2021. Center for Latin American Studies. 1500 USD. 1 year. 
+●	Tinker Field Research Award. USA 2021. Center for Latin American Studies (CLAS). 1500 USD. 1 year. 
 
 ● Roger Conant Grants-in-Herpetology award. USA 2021. Society for the Study of Amphibians and Reptiles (SSAR). 500 USD. 1 year.
 
@@ -128,7 +128,11 @@ VRC updated August 2020
  
 ## Invited speaker
 
-## Support for social movements
+## DEI projects and support
+●	Webinar "Building Science for Peace: Interdisciplinary experiences from Colombia". Sponsors: Center for Latin American Studies (CLAS), FOCALI, SIANI, Colombian Society of Evolution (COLEVOL). June 2021 
+
+●	Webinar "Conspiracies against the reconstruction of a "normal" world: Political imagination, art and pandemic in Latin America". Sponsors: Center for Latin American Studies (CLAS). June 2020 
+
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
 ●	Blog on science-society relationship "Portal Virtual ANURA Ciencia". November 2014 to November 2015
