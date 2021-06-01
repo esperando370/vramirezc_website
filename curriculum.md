@@ -106,7 +106,7 @@ VRC updated August 2020
 
 ●	P.E.O. International Peace Scholarship. USA 2020-2021. International Chapter of the P.E.O. Sisterhood. 12500 USD. 2 years.
 
-●	MVZ Research funding. USA 2020. Museum of Vertebrate Zoology at UC Berkeley. 2000 USD. 1 year. 
+●	Museum of Vertebrate Zoology’s Carl B. Koford Fund. USA 2020-2021. Museum of Vertebrate Zoology at UC Berkeley. 3500 USD. 2 years. 
 
 ● Grants-in-Aid of Research (GIAR). USA 2020. Berkeley Chapter of Sigma Xi. 500 USD. 6 months.
 
