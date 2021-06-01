@@ -85,6 +85,8 @@ VRC updated August 2020
 
 
 ## Honors & awards
+●	[Outstanding GSI Award.](https://github.com/esperando370/vramirezc_website/blob/master/7_Ramirez%20Castaneda_Integrative%20Biology_2021%20OGSI%20Cert%20(1).pdf) GSI Teaching and Resource Center. University of California Berkeley. Spring semester 2021.
+
 ●	Second place honorable mention for the EE Williams Research Grant. The herpetologist' league. Spring semester 2020.
 
 ●	New Talents in Sociolinguistics Award for Master’s thesis in Science Communication. Catalan Sociolinguistic Society. University of Barcelona. Barcelona, Spain. Spring semester 2019.
@@ -124,6 +126,8 @@ VRC updated August 2020
 
 ●	Pérez-Ortega, R. 2020. Science’s English dominance hinders diversity—but the community can work toward change. _Science_. [doi:10.1126/science.caredit.abf4697](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
  
+## Invited speaker
+
 ## Support for social movements
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
