@@ -95,7 +95,14 @@ VRC updated August 2020
 
 
 ## Scholarships, fellowships and grants
-●	P.E.O. International Peace Scholarship. USA 2020. International Chapter of the P.E.O. Sisterhood. 12500 USD. 1 year.
+
+●	E.E. Williams Research Grant. USA 2021. Herpetologist' league. 1000 USD. 1 year. 
+
+●	Tinker Field Research Award. USA 2021. Center for Latin American Studies. 1500 USD. 1 year. 
+
+● Roger Conant Grants-in-Herpetology award. USA 2021. Society for the Study of Amphibians and Reptiles (SSAR). 500 USD. 1 year.
+
+●	P.E.O. International Peace Scholarship. USA 2020-2021. International Chapter of the P.E.O. Sisterhood. 12500 USD. 2 years.
 
 ●	MVZ Research funding. USA 2020. Museum of Vertebrate Zoology at UC Berkeley. 2000 USD. 1 year. 
 
