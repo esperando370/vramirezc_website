@@ -85,9 +85,10 @@ VRC updated August 2020
 
 
 ## Honors & awards
+
 ●	[Outstanding GSI Award.](https://github.com/esperando370/vramirezc_website/blob/master/7_Ramirez%20Castaneda_Integrative%20Biology_2021%20OGSI%20Cert%20(1).pdf) GSI Teaching and Resource Center. University of California Berkeley. Spring semester 2021.
 
-●	Second place honorable mention for the EE Williams Research Grant. The herpetologist' league. Spring semester 2020.
+●	Second place honorable mention for the EE Williams Research Grant. The herpetologists' league. Spring semester 2020.
 
 ●	New Talents in Sociolinguistics Award for Master’s thesis in Science Communication. Catalan Sociolinguistic Society. University of Barcelona. Barcelona, Spain. Spring semester 2019.
 
@@ -127,18 +128,32 @@ VRC updated August 2020
 ●	Pérez-Ortega, R. 2020. Science’s English dominance hinders diversity—but the community can work toward change. _Science_. [doi:10.1126/science.caredit.abf4697](https://www.sciencemag.org/careers/2020/10/science-s-english-dominance-hinders-diversity-community-can-work-toward-change)
  
 ## Invited speaker
+●	Panelist - "Language Bias as a Barrier in Ecological Sciences". ESA Vital Connections in Ecology 2021. August 4, 2021. 
+●	Panelist - "What are the main barriers to succeed in brain research in Latin America?". ALBA Network. February 24, 2021.
+●	Panelist - "Science for all: why and how to do science communication". Club Eco-Evo Latin America. April 26, 2021.
+●	Speaker - "Challenges in academia: English as a Second Language". Purdue University Latino Cultural Center. April 14, 2021.
+●	Speaker - "Dominance of English language as a barrier for science". Global Health Innovation Club (GHIC), University of Wisconsin - Madison. February 19, 2021.
+●	Panelist - "Decolonizing Evolution". Evolution 2021. June 16, 2021. 
+●	Speaker - "Dominance of English language as a barrier for science". The Center for Theoretical and Evolutionary Genetics Seminar (CTEG). February 15, 2021. 
+
 
 ## DEI projects and support
-●	Webinar "Building Science for Peace: Interdisciplinary experiences from Colombia". Sponsors: Center for Latin American Studies (CLAS), FOCALI, SIANI, Colombian Society of Evolution (COLEVOL). June 2021 
+●	Organizer- Integrative Biology Department sci-comm mini-grants. University of California Berkeley. Octuber 2021. 
 
-●	Webinar "Conspiracies against the reconstruction of a "normal" world: Political imagination, art and pandemic in Latin America". Sponsors: Center for Latin American Studies (CLAS). June 2020 
+●	Organizer- Webinar "Impacts of the use of colonial languages in Latin American science communication". Inclusive SciComm Symposium 2021 & Mira quién habla de ciencia. Octuber 2021 
+
+●	Mentor- Girls in STEAM. Maloka, Science & Tecnology Ministry. Colombia. June 2021
+
+●	Organizer- Webinar "Building Science for Peace: Interdisciplinary experiences from Colombia". Sponsors: Center for Latin American Studies (CLAS), FOCALI, SIANI, Colombian Society of Evolution (COLEVOL). June 2021 
+
+●	Organizer- Webinar "Conspiracies against the reconstruction of a "normal" world: Political imagination, art and pandemic in Latin America". Sponsors: Center for Latin American Studies (CLAS). June 2020 
 
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
-●	Blog on science-society relationship "Portal Virtual ANURA Ciencia". November 2014 to November 2015
+●	Organizer- Blog on science-society relationship "Portal Virtual ANURA Ciencia". November 2014 to November 2015
 
-●	Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology. December 2010 to December 2015
+●	Organizer- Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology. December 2010 to December 2015
 
-●	Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
+●	Organizer- Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
 
 **Go back to the [main page](./index.md)**
