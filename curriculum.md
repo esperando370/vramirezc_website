@@ -2,7 +2,7 @@
 layout: post
 title: Curriculum
 ---
-VRC updated August 2020
+VRC updated August 2021
 
 ## Education 
 ●	Graduate student in Integrative Biology. University of California, Berkeley, USA. August 2019 to currently active
