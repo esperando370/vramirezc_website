@@ -59,10 +59,6 @@ VRC updated August 2021
 
 ●	Coauthor from Tarvin Lab project called [Amphibioscope](https://twitter.com/amphibioscope). Daily horoscope bot that infuses AI-generated horoscopes with amphibian life-history data from AmphibiaWeb for science communication and entertainment purposes. 
 
-●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism and pandemic. July 2020.
-
-●	Organizer of webinar ["Racism in Science - Colombia, Brazil & USA".](https://www.facebook.com/106234834388119/videos/907545009759554). Students group "Guaches & Guarichas". June 2020. 
-
 ●	**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
 
 ●	**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
@@ -154,7 +150,9 @@ VRC updated August 2021
 
 ●	Organizer- Webinar "Building Science for Peace: Interdisciplinary experiences from Colombia". Sponsors: Center for Latin American Studies (CLAS), FOCALI, SIANI, Colombian Society of Evolution (COLEVOL). June 2021 
 
-●	Organizer- Webinar "Conspiracies against the reconstruction of a "normal" world: Political imagination, art and pandemic in Latin America". Sponsors: Center for Latin American Studies (CLAS). June 2020 
+●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism and pandemic. July 2020.
+
+●	Organizer of webinar ["Racism in Science - Colombia, Brazil & USA".](https://www.facebook.com/106234834388119/videos/907545009759554). Students group "Guaches & Guarichas". June 2020. 
 
 ●	Graduate Students Representative. Biological Science Department, University of the Andes, Bogotá. 2016
 
