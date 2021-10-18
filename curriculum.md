@@ -129,12 +129,19 @@ VRC updated August 2021
  
 ## Invited speaker
 ●	Panelist - "Language Bias as a Barrier in Ecological Sciences". ESA Vital Connections in Ecology 2021. August 4, 2021.
+
 ●	Panelist - "Decolonizing Evolution". Evolution 2021. June 16, 2021. 
+
 ●	Panelist - "What are the main barriers to succeed in brain research in Latin America?". ALBA Network. February 24, 2021.
+
 ●	Panelist - "Science for all: why and how to do science communication". Club Eco-Evo Latin America. April 26, 2021.
+
 ●	Speaker - "Challenges in academia: English as a Second Language". Purdue University Latino Cultural Center. April 14, 2021.
+
 ●	Speaker - "Dominance of English language as a barrier for science". Global Health Innovation Club (GHIC), University of Wisconsin - Madison. February 19, 2021.
-●	Speaker - "Dominance of English language as a barrier for science". The Center for Theoretical and Evolutionary Genetics Seminar (CTEG). February 15, 2021. 
+
+●	Speaker - "Dominance of English language as a barrier for science". The Center for Theoretical and Evolutionary Genetics Seminar (CTEG). February 15, 2021.
+
 ●	Speaker - "Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences". Ballena que habla de ciencia. Universidad de Concepción. November 25, 2020. 
 
 
