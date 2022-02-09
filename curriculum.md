@@ -132,6 +132,8 @@ VRC updated August 2021
 
 ●	Panelist - "Decolonizing Evolution". Evolution 2021. June 16, 2021. 
 
+●	Speaker - "Dominance of English language as a barrier for science". ComSciCon en Español 2021. June 13, 2021.
+
 ●	Panelist - "What are the main barriers to succeed in brain research in Latin America?". ALBA Network. February 24, 2021.
 
 ●	Panelist - "Science for all: why and how to do science communication". Club Eco-Evo Latin America. April 26, 2021.
