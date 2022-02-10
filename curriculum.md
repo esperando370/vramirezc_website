@@ -34,9 +34,9 @@ VRC updated August 2021
 
 ### Peer-reviewed articles
 
-●	**Ramírez-Castañeda, V.**, Westeen, E. P., Frederick, J., Amini, S., Wait, D., Achmadi, A. S., … Tarvin, R. D. (2022, February 4). A set of principles and practical suggestions for equitable fieldwork in biology. EcoEvoRxiv. ecoevorxiv.org/uszd7
+●	**Ramírez-Castañeda, V.**, Westeen, E. P., Frederick, J., Amini, S., Wait, D., Achmadi, A. S., … Tarvin, R. D. (2022, February 4). A set of principles and practical suggestions for equitable fieldwork in biology. EcoEvoRxiv. [ecoevorxiv.org/uszd7](https://ecoevorxiv.org/uszd7)
 
-●	Montana, K. O., **Ramírez-Castañeda, V.**, & Tarvin, R. D. (2022). Characterizing Potential Tetrodotoxin Resistance in Domain IV of the Voltage-Gated Sodium Channel Nav1.4 of Pacific Chorus Frogs, _Pseudacris regilla_. bioRxiv, 2022.01.22.475505. https://doi.org/10.1101/2022.01.22.475505
+●	Montana, K. O., **Ramírez-Castañeda, V.**, & Tarvin, R. D. (2022). Characterizing Potential Tetrodotoxin Resistance in Domain IV of the Voltage-Gated Sodium Channel Nav1.4 of Pacific Chorus Frogs, _Pseudacris regilla_. bioRxiv, 2022.01.22.475505. [https://doi.org/10.1101/2022.01.22.475505](https://doi.org/10.1101/2022.01.22.475505)
 
 ●	**Ramírez-Castañeda, V.** (2020). Disadvantages in preparing and publishing scientific papers caused by the dominance of the English language in science: The case of Colombian researchers in biological sciences. _PLOS ONE_. [https://doi.org/10.1371/journal.pone.0238372](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238372)
 
