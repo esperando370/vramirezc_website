@@ -120,6 +120,11 @@ VRC updated August 2021
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
 
 ## Press
+
+● Sofia Quaglia. 2022. [Lost in translation: is research into species being missed because of a language barrier?](https://www.theguardian.com/environment/2022/apr/04/lost-in-translation-is-research-into-species-being-missed-because-of-a-language-barrier-aoe). _The Guardian_. US edition.
+
+● Valeria Ramírez Castañeda. 2022.[Inglês como uma barreira para a ciência](https://bit.ly/3Nh8H5b). Merida Publishers. Brazil.
+
 ●	Science editorial. 2020. [Not writing in English has been a barrier for Colombian scientists
 ](https://www.elespectador.com/noticias/ciencia/no-escribir-en-ingles-ha-sido-una-barrera-para-los-cientificos-colombianos-dice-estudio/?fbclid=IwAR3YhIu2708l6ORcAyqg3jhZqWL8zrD3P74KcNn54o0oO-A4C14PUccLgtQ). _El Espectador_. Colombia
 
