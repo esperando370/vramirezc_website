@@ -11,7 +11,7 @@ library("rnaturalearth")
 library("rnaturalearthdata")
 theme_set(theme_bw())
 
-setwd("/Volumes/GoogleDrive/Mi unidad/ARTÍCULO MAESTRIA!!!/Figures and tables/map_R")
+setwd() #your path
 
 #Colombian map
 Colo <- ne_countries(country = c("colombia", "ecuador","peru", "brazil", "venezuela", "panama"), scale = "medium", returnclass = "sf")
@@ -55,9 +55,10 @@ prec_long <- prec2 %>% pivot_longer(COL_wc2.1_30s_prec_1:COL_wc2.1_30s_prec_12)
 colnames(prec_long)
 head(prec_long)
 
-#prec_long_mean <- prec_long %>% group_by(ID) %>% summarise(x = mean(x), y = mean(y), mean_prec = mean(value) )
+prec_long_mean <- prec_long %>% group_by(ID) %>% summarise(x = mean(x), y = mean(y), mean_prec = mean(value) )
 
-#save(prec_long_mean, file= "prec_long_mean.Rdata")
+#I recommend to save it, it takes long to run
+save(prec_long_mean, file= "prec_long_mean.Rdata")
 load("prec_long_mean.Rdata")
 head(prec_long_mean)
 
