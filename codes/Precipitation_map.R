@@ -13,7 +13,7 @@ theme_set(theme_bw())
 
 setwd() #your path
 
-#Colombian map
+# Get map from the "North" of South America
 Colo <- ne_countries(country = c("colombia", "ecuador","peru", "brazil", "venezuela", "panama"), scale = "medium", returnclass = "sf")
 class(Colo)
 
