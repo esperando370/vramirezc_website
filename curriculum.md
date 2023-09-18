@@ -14,7 +14,7 @@ VRC updated August 2021
 ●	Bachelor in Biology. Biology (BSc.). National University of Colombia, Bogotá.  August 2008 to December 2013
 
 
-## Laboral experience
+## Positions held
 ●	University of California, Berkeley. Graduate student instructor. August 2019 to currently active
 
 ●	DBGen Ocular Genomics. Communication and Research Assistant. September 2017 to July 2019
