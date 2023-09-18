@@ -162,7 +162,7 @@ VRC updated August 2021
 
 ●	Organizer- Webinar "Building Science for Peace: Interdisciplinary experiences from Colombia". Sponsors: Center for Latin American Studies (CLAS), FOCALI, SIANI, Colombian Society of Evolution (COLEVOL). June 2021 
 
-●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism and pandemic. July 2020.
+●	Organizer of webinar ["Conspiracies against the reconstruction of a NORMAL World".](https://www.facebook.com/conspiracionescontralareconstruccion) Online conversations about art, activism, and pandemic. July 2020.
 
 ●	Organizer of webinar ["Racism in Science - Colombia, Brazil & USA".](https://www.facebook.com/106234834388119/videos/907545009759554). Students group "Guaches & Guarichas". June 2020. 
 
@@ -173,5 +173,15 @@ VRC updated August 2021
 ●	Organizer- Non-profit pre-college "Colectivo EsCuadra Educativa", Bogota. Volunteer instructor for workshops on environmental education, human rights, gender conflicts, chemistry, and biology. December 2010 to December 2015
 
 ●	Organizer- Gold-mining problems workshop on the Colombian Andean Cordillera "Tejiendo Territorio CEAT" La Sierra, Cauca, Colombia. January 2011 to January 2012
+
+## Honors & awards
+
+●	Dario Alarcón Naforo
+
+●	Lizbeth García
+
+●	Katherine Montana
+
+## Conferences
 
 **Go back to the [main page](./index.md)**
