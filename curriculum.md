@@ -52,38 +52,6 @@ VRC updated August 2021
 
 (+) _Authors contributed equally_ 
 
-### Thesis
-●	**Ramírez-Castañeda, V.** (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
-
-●	**Ramírez-Castañeda, V.** (2017). Origin of mutations in the NaV gene family associated with resistance to neurotoxins in snake (_Erythrolamprus sp._) predators of dart poison frogs (Dendrobatidae). Master’s thesis. University of the Andes, Bogota, Colombia.
-
-●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
-
-### Science communication, outreach and other not peer-reviewed publications
-
-●	Coauthor from Tarvin Lab project called [Amphibioscope](https://twitter.com/amphibioscope). Daily horoscope bot that infuses AI-generated horoscopes with amphibian life-history data from AmphibiaWeb for science communication and entertainment purposes. 
-
-●	**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
-
-●	**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
-
-●	**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
-
-●	**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. Colombian Society of Evolution (COLEVOL). [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
-
-●	**Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
-
-●	**Ramírez-Castañeda, V.** (2015). Three steps to understand Darwin thoughts. Portal Virtual ANURA Ciencia
-
-●	**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Cali, Colombia Zoo. (Peer-reviewed). 
-
-●	Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
-
-●	Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
-
-(+) _Authors contributed equally_ 
-
-
 ## Honors & awards
 
 ●	[Outstanding GSI Award.](https://github.com/esperando370/vramirezc_website/blob/master/7_Ramirez%20Castaneda_Integrative%20Biology_2021%20OGSI%20Cert%20(1).pdf) GSI Teaching and Resource Center. University of California Berkeley. Spring semester 2021.
@@ -118,6 +86,39 @@ VRC updated August 2021
 ●	Scholarship for Phylogenetic Tools for Comparative Biology: PCM workshop 2016. University of Massachusetts Boston. San Juan, Puerto Rico. Travel covered. 7 days.
 
 ●	IV National Congress of Zoology, Cartagena, Colombia. Scholarship for Latin-American Students 2014. 100 USD. 4 days.
+
+
+### Thesis
+●	**Ramírez-Castañeda, V.** (2019). Disadvantages of writing, reading, publishing and presenting scientific papers caused by the English linguistic hegemony: The case of Colombian Ph.D. in biological sciences. Master’s thesis. University of Barcelona, Barcelona, Spain.
+
+●	**Ramírez-Castañeda, V.** (2017). Origin of mutations in the NaV gene family associated with resistance to neurotoxins in snake (_Erythrolamprus sp._) predators of dart poison frogs (Dendrobatidae). Master’s thesis. University of the Andes, Bogota, Colombia.
+
+●	**Ramírez-Castañeda, V.**(2014). Batrachotoxin (BTX) resistance in the snake (_Erythrolamprus epinephelus_) predator of poison-dart frogs (_Phyllobates_): Sequence description of the muscular voltage-gated sodium channel. Undergraduate thesis. National University of Colombia, Bogota, Colombia.
+
+### Science communication, outreach and other not peer-reviewed publications
+
+●	Coauthor from Tarvin Lab project called [Amphibioscope](https://twitter.com/amphibioscope). Daily horoscope bot that infuses AI-generated horoscopes with amphibian life-history data from AmphibiaWeb for science communication and entertainment purposes. 
+
+●	**Ramírez-Castañeda, V.**(2019). [Ants war.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK11%20-%20Hormigas.png) Jot Down Kids.
+
+●	**Ramírez-Castañeda, V.**(2018). [The Spider-Man flight.](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK10_Vuelo%20ara%CC%81cnido.png) Jot Down Kids.
+
+●	**Ramírez-Castañeda, V.** (2018). [Shiny, tiny and toxic!](https://github.com/esperando370/vramirezc_website/blob/master/JDK/JDK9_Rana%20amarilla.png) – Dart poison frog. Jot Down Kids.
+
+●	**Ramírez-Castañeda, V.** (2016-2019). Recommended articles – Evolutionary morphology and physiology. Colombian Society of Evolution (COLEVOL). [Boletín Colombiano de Biología Evolutiva.](https://issuu.com/boletincolevol/docs/boletincolevol_2019-1)
+
+●	**Ramírez-Castañeda, V.** (2015). Top 3: Extreme animal epidemies. Portal Virtual ANURA Ciencia
+
+●	**Ramírez-Castañeda, V.** (2015). Three steps to understand Darwin thoughts. Portal Virtual ANURA Ciencia
+
+●	**Ramírez-Castañeda, V.** (2015). Andinobates fulguritus (Dendrobatidae). [Guide of amphibians from Valle del Cauca.](http://anfibiosdelvalledelcauca.com/) Cali, Colombia Zoo. (Peer-reviewed). 
+
+●	Barbosa-Rojas+, A., Castro-Fajardo+, A., Castro-Ramírez+, S., González-Acero+, L., **Ramírez-Castañeda+, V.**, Goméz-Cano+, A., et al. (Eds.) (2012). [Continental Ecology on the Tayrona Natural Park.](http://www.bdigital.unal.edu.co/9232/1/gabrielpinilla.2012.pdf). Universidad Nacional de Colombia. 
+
+●	Tejiendo Territorio CEAT. (2011). Gold-mining problems on the Colombian Andean Cordillera. La Sierra, Cauca - Colombia
+
+(+) _Authors contributed equally_ 
+
 
 ## Press
 
